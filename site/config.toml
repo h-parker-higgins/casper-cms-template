@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Casper Theme"
+title = "H. Parker Higgins"
 theme = "hugo-theme-casper"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
@@ -25,6 +25,6 @@ canonifyurls = true
   facebookName = "parker.higgins.12"
   linkedinName = "h-parker-higgins-971b375b"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport = false
+  hideHUGOSupport = true
   [params.social]
     twitter = "your_twitter"
