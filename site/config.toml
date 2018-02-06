@@ -10,7 +10,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "this is my description"
+  description = "Digital Director * Project Management * Digital Marketing"
   cover = "images/cover.jpg"
   author = "Valère JEANTET"
   authorlocation = "Salt Lake City, Utah"
