@@ -21,10 +21,10 @@ canonifyurls = true
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   # RSSLink = "http://feeds.feedburner.com/..."
   # githubName = "h-parker-higgins"
-  # twitterName = "parker"
+  twitterName = "parkerhiggins"
   facebookName = "parker.higgins.12"
   linkedinName = "h-parker-higgins-971b375b"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = true
   [params.social]
-    twitter = "your_twitter"
+    twitter = "parkerhiggins"
